@@ -1,9 +1,9 @@
-# 🛠️ Data Preprocessing - Essential Step in Machine Learning
+# 🛠️ Data Preprocessing Phase
 
 ## 📌 Overview
-Data preprocessing is the first and most crucial step in any **Machine Learning (ML) pipeline**. It involves cleaning, transforming, and organizing raw data to improve model accuracy and efficiency. This repository contains a structured approach to preprocessing, ensuring that your data is well-prepared for training ML models.
-
-This repository follows a structured folder system, where each folder represents a step in the **ML workflow**. By following these folders in order, you can build a solid foundation for your models.
+- Data preprocessing is the first and most crucial step in any **Machine Learning (ML) pipeline**. It involves cleaning, transforming, and organizing raw data to improve model accuracy and efficiency.
+- This repository contains a structured approach to preprocessing, ensuring that your data is well-prepared for training ML models.
+- This repository follows a structured folder system, where each folder represents a step in the **ML workflow**. By following these folders in order, you can build a solid foundation for your models.
 
 <div style="width: 100%; height: 10px; background: linear-gradient(to right, orange, red, orange, red, orange); border-radius: 5px; margin: 20px 0;"></div>
 
